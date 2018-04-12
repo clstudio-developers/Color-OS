@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{97B14963-68CE-4BF9-9FC0-8863150E50FA}"
+	ProjectSection(SolutionItems) = preProject
+		Color OS.bat = Color OS.bat
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{97A6DE8C-B51C-4AAF-9EC7-A43CE9522276}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Image", "Image", "{B398B6A5-540F-4576-8910-785D77952DAB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tools", "Tools", "{15CE9D72-D646-4C5D-96FA-417A837B9D58}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{97A6DE8C-B51C-4AAF-9EC7-A43CE9522276} = {97B14963-68CE-4BF9-9FC0-8863150E50FA}
+		{B398B6A5-540F-4576-8910-785D77952DAB} = {97B14963-68CE-4BF9-9FC0-8863150E50FA}
+		{15CE9D72-D646-4C5D-96FA-417A837B9D58} = {97B14963-68CE-4BF9-9FC0-8863150E50FA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2ECFEC92-B8E5-463D-89D6-CDCDC50F68F2}
+	EndGlobalSection
+EndGlobal
